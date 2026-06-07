@@ -1,0 +1,12 @@
+# Intermediate pipeline data & batch files (regenerable)
+work/
+# Dev copy of the viewer (canonical copy lives in docs/)
+review-app/
+# Python
+__pycache__/
+*.pyc
+# Editors / OS / agent
+.idea/
+.claude/
+.DS_Store
+*.tmp

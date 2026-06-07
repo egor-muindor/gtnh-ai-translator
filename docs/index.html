@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GTNH Questbook Translation Review</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-left">
+      <h1>GTNH Questbook · Review</h1>
+      <span id="progress" class="progress">0 / 0</span>
+    </div>
+    <div class="topbar-right">
+      <label class="toggle">
+        <input type="checkbox" id="renderToggle" checked>
+        <span>Рендер (Minecraft)</span>
+      </label>
+      <span id="ratingCounter" class="rating-counter"></span>
+      <button id="exportBtn" class="btn btn-ghost" title="Скачать оценки в JSON">Экспорт оценок</button>
+    </div>
+  </header>
+
+  <section class="filters" id="filters">
+    <input type="search" id="search" class="search" placeholder="Поиск по EN / старому / новому…">
+    <select id="filterCategory" class="select" title="Категория"></select>
+    <select id="filterSeverity" class="select" title="Серьёзность">
+      <option value="">Любая серьёзность</option>
+      <option value="major">major</option>
+      <option value="minor">minor</option>
+    </select>
+    <select id="filterField" class="select" title="Поле">
+      <option value="">Любое поле</option>
+      <option value="name">name</option>
+      <option value="desc">desc</option>
+    </select>
+    <select id="filterRating" class="select" title="Оценка">
+      <option value="">Любая оценка</option>
+      <option value="ok">👍 OK</option>
+      <option value="bad">👎 Needs work</option>
+      <option value="note">✏️ С заметкой</option>
+      <option value="unrated">Без оценки</option>
+    </select>
+    <label class="check">
+      <input type="checkbox" id="filterHasOld">
+      <span>только с прежним переводом</span>
+    </label>
+    <button id="clearFilters" class="btn btn-ghost">Сбросить</button>
+  </section>
+
+  <main class="stage">
+    <button id="prevBtn" class="navarrow navarrow-left" title="Предыдущий (←)">‹</button>
+    <div id="card" class="card-wrap"><!-- card injected --></div>
+    <button id="nextBtn" class="navarrow navarrow-right" title="Следующий (→)">›</button>
+  </main>
+
+  <footer class="bottombar">
+    <button id="prevBtn2" class="btn">‹ Назад</button>
+    <div class="goto">
+      <label for="gotoInput">Перейти к #</label>
+      <input type="number" id="gotoInput" min="1" class="goto-input">
+      <span id="gotoTotal" class="goto-total">/ 0</span>
+    </div>
+    <button id="nextBtn2" class="btn">Вперёд ›</button>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

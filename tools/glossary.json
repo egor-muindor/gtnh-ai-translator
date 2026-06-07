@@ -1,0 +1,3293 @@
+{
+ "tier": {
+  "ru": "этап",
+  "freq": 38,
+  "seed": true
+ },
+ "multiblock": {
+  "ru": "мультиблок",
+  "freq": 30,
+  "seed": true
+ },
+ "GregTech": {
+  "ru": "",
+  "freq": 17,
+  "seed": true
+ },
+ "circuit": {
+  "ru": "схема",
+  "freq": 15,
+  "seed": true
+ },
+ "recipe": {
+  "ru": "рецепт",
+  "freq": 13,
+  "seed": true
+ },
+ "overclock": {
+  "ru": "разгон",
+  "freq": 9,
+  "seed": true
+ },
+ "NEI": {
+  "ru": "",
+  "freq": 7,
+  "seed": true
+ },
+ "ore": {
+  "ru": "руда",
+  "freq": 7,
+  "seed": true
+ },
+ "dust": {
+  "ru": "пыль",
+  "freq": 6,
+  "seed": true
+ },
+ "ingot": {
+  "ru": "слиток",
+  "freq": 5,
+  "seed": true
+ },
+ "energy": {
+  "ru": "энергия",
+  "freq": 4,
+  "seed": true
+ },
+ "machine": {
+  "ru": "машина",
+  "freq": 4,
+  "seed": true
+ },
+ "smelting": {
+  "ru": "переплавка",
+  "freq": 3,
+  "seed": true
+ },
+ "crafting": {
+  "ru": "крафт",
+  "freq": 2,
+  "seed": true
+ },
+ "Not Enough Items": {
+  "ru": "",
+  "freq": 2,
+  "seed": true
+ },
+ "ritual": {
+  "ru": "ритуал",
+  "freq": 2,
+  "seed": true
+ },
+ "voltage": {
+  "ru": "напряжение",
+  "freq": 2,
+  "seed": true
+ },
+ "Discord": {
+  "ru": "",
+  "freq": 1,
+  "seed": true
+ },
+ "coven": {
+  "ru": "ковен",
+  "freq": 0,
+  "seed": true
+ },
+ "craft": {
+  "ru": "крафт",
+  "freq": 0,
+  "seed": true
+ },
+ "CurseForge": {
+  "ru": "",
+  "freq": 0,
+  "seed": true
+ },
+ "Infernal Mobs": {
+  "ru": "Инфернальные мобы",
+  "freq": 0,
+  "seed": true
+ },
+ "mod": {
+  "ru": "мод",
+  "freq": 0,
+  "seed": true
+ },
+ "modpack": {
+  "ru": "сборка",
+  "freq": 0,
+  "seed": true
+ },
+ "MultiMC": {
+  "ru": "",
+  "freq": 0,
+  "seed": true
+ },
+ "Pam's Harvestcraft": {
+  "ru": "",
+  "freq": 0,
+  "seed": true
+ },
+ "plate": {
+  "ru": "пластина",
+  "freq": 0,
+  "seed": true
+ },
+ "Prism": {
+  "ru": "",
+  "freq": 0,
+  "seed": true
+ },
+ "quest": {
+  "ru": "квест",
+  "freq": 0,
+  "seed": true
+ },
+ "quest line": {
+  "ru": "ветка квестов",
+  "freq": 0,
+  "seed": true
+ },
+ "questbook": {
+  "ru": "книга квестов",
+  "freq": 0,
+  "seed": true
+ },
+ "stargate": {
+  "ru": "звёздные врата",
+  "freq": 0,
+  "seed": true
+ },
+ "Technic": {
+  "ru": "",
+  "freq": 0,
+  "seed": true
+ },
+ "Vanilla": {
+  "ru": "ванильный",
+  "freq": 0,
+  "seed": true
+ },
+ "Wiki": {
+  "ru": "вики",
+  "freq": 0,
+  "seed": true
+ },
+ "EBF": {
+  "ru": "EBF",
+  "freq": 13
+ },
+ "Chemical Reactor": {
+  "ru": "химический реактор",
+  "freq": 12
+ },
+ "Electric Blast Furnace": {
+  "ru": "электрическая доменная печь",
+  "freq": 12
+ },
+ "Essentia": {
+  "ru": "эссенция",
+  "freq": 12
+ },
+ "Hatch": {
+  "ru": "шлюз",
+  "freq": 11
+ },
+ "macerator": {
+  "ru": "дробитель",
+  "freq": 11
+ },
+ "Centrifuge": {
+  "ru": "центрифуга",
+  "freq": 10
+ },
+ "Turbine": {
+  "ru": "турбина",
+  "freq": 10
+ },
+ "Coke Oven": {
+  "ru": "коксовая печь",
+  "freq": 9
+ },
+ "Distillation Tower": {
+  "ru": "ректификационная колонна",
+  "freq": 9
+ },
+ "EU": {
+  "ru": "EU",
+  "freq": 9
+ },
+ "Storage Cell": {
+  "ru": "ячейка хранения",
+  "freq": 9
+ },
+ "Thaumcraft": {
+  "ru": "Thaumcraft",
+  "freq": 9
+ },
+ "automation": {
+  "ru": "автоматизация",
+  "freq": 8
+ },
+ "boiler": {
+  "ru": "бойлер",
+  "freq": 8
+ },
+ "crop": {
+  "ru": "растение",
+  "freq": 8
+ },
+ "Diesel": {
+  "ru": "дизель",
+  "freq": 8
+ },
+ "Energy Hatch": {
+  "ru": "энерговвод",
+  "freq": 8
+ },
+ "AE2": {
+  "ru": "AE2",
+  "freq": 7
+ },
+ "coolant": {
+  "ru": "хладагент",
+  "freq": 7
+ },
+ "electrolyzer": {
+  "ru": "электролизер",
+  "freq": 7
+ },
+ "Forestry": {
+  "ru": "Forestry",
+  "freq": 7
+ },
+ "Heat Exchanger": {
+  "ru": "теплообменник",
+  "freq": 7
+ },
+ "ME Network": {
+  "ru": "МЭ сеть",
+  "freq": 7
+ },
+ "smeltery": {
+  "ru": "плавильня",
+  "freq": 7
+ },
+ "Steam Turbine": {
+  "ru": "паровая турбина",
+  "freq": 7
+ },
+ "Chemical Plant": {
+  "ru": "химический завод",
+  "freq": 6
+ },
+ "coil": {
+  "ru": "катушка",
+  "freq": 6
+ },
+ "Naquadah": {
+  "ru": "наквадах",
+  "freq": 6
+ },
+ "reactor": {
+  "ru": "реактор",
+  "freq": 6
+ },
+ "steam": {
+  "ru": "пар",
+  "freq": 6
+ },
+ "Twilight Forest": {
+  "ru": "Сумеречный Лес",
+  "freq": 6
+ },
+ "VIS": {
+  "ru": "вис",
+  "freq": 6
+ },
+ "assembly line": {
+  "ru": "сборочная линия",
+  "freq": 5
+ },
+ "Cable": {
+  "ru": "кабель",
+  "freq": 5
+ },
+ "Creosote": {
+  "ru": "креозот",
+  "freq": 5
+ },
+ "Distillery": {
+  "ru": "дистиллятор",
+  "freq": 5
+ },
+ "EnderIO": {
+  "ru": "EnderIO",
+  "freq": 5
+ },
+ "HV": {
+  "ru": "HV",
+  "freq": 5
+ },
+ "LV": {
+  "ru": "LV",
+  "freq": 5
+ },
+ "MV": {
+  "ru": "MV",
+  "freq": 5
+ },
+ "Naquadria": {
+  "ru": "наквадрия",
+  "freq": 5
+ },
+ "ore vein": {
+  "ru": "рудная жила",
+  "freq": 5
+ },
+ "Railcraft": {
+  "ru": "Railcraft",
+  "freq": 5
+ },
+ "rocket": {
+  "ru": "ракета",
+  "freq": 5
+ },
+ "rotor": {
+  "ru": "ротор",
+  "freq": 5
+ },
+ "Tinker's Construct": {
+  "ru": "Tinker's Construct",
+  "freq": 5
+ },
+ "wand": {
+  "ru": "жезл",
+  "freq": 5
+ },
+ "wrench": {
+  "ru": "гаечный ключ",
+  "freq": 5
+ },
+ "AE": {
+  "ru": "AE",
+  "freq": 4
+ },
+ "Alloy Smelter": {
+  "ru": "сплавоплавильная печь",
+  "freq": 4
+ },
+ "Applied Energistics": {
+  "ru": "Applied Energistics",
+  "freq": 4
+ },
+ "autoclave": {
+  "ru": "автоклав",
+  "freq": 4
+ },
+ "bee": {
+  "ru": "пчела",
+  "freq": 4
+ },
+ "biomass": {
+  "ru": "биомасса",
+  "freq": 4
+ },
+ "charcoal": {
+  "ru": "древесный уголь",
+  "freq": 4
+ },
+ "Combustion Generator": {
+  "ru": "генератор внутреннего сгорания",
+  "freq": 4
+ },
+ "cracking": {
+  "ru": "крекинг",
+  "freq": 4
+ },
+ "distillation": {
+  "ru": "дистилляция",
+  "freq": 4
+ },
+ "Ethylene": {
+  "ru": "этилен",
+  "freq": 4
+ },
+ "EV": {
+  "ru": "EV",
+  "freq": 4
+ },
+ "extruder": {
+  "ru": "экструдер",
+  "freq": 4
+ },
+ "fluid solidifier": {
+  "ru": "жидкостный отвердитель",
+  "freq": 4
+ },
+ "fuel": {
+  "ru": "топливо",
+  "freq": 4
+ },
+ "Glowstone": {
+  "ru": "светокамень",
+  "freq": 4
+ },
+ "Hydrogen": {
+  "ru": "водород",
+  "freq": 4
+ },
+ "Light Fuel": {
+  "ru": "лёгкое топливо",
+  "freq": 4
+ },
+ "oil cracker": {
+  "ru": "установка крекинга нефти",
+  "freq": 4
+ },
+ "Pipe": {
+  "ru": "труба",
+  "freq": 4
+ },
+ "plasma": {
+  "ru": "плазма",
+  "freq": 4
+ },
+ "Polyethylene": {
+  "ru": "полиэтилен",
+  "freq": 4
+ },
+ "Redstone": {
+  "ru": "красный камень",
+  "freq": 4
+ },
+ "rune": {
+  "ru": "руна",
+  "freq": 4
+ },
+ "Sunnarium": {
+  "ru": "саннарий",
+  "freq": 4
+ },
+ "TecTech": {
+  "ru": "TecTech",
+  "freq": 4
+ },
+ "wafer": {
+  "ru": "вафля",
+  "freq": 4
+ },
+ "Witchery": {
+  "ru": "Witchery",
+  "freq": 4
+ },
+ "assembler": {
+  "ru": "сборочная машина",
+  "freq": 3
+ },
+ "backpack": {
+  "ru": "рюкзак",
+  "freq": 3
+ },
+ "breeding": {
+  "ru": "скрещивание",
+  "freq": 3
+ },
+ "buffer": {
+  "ru": "буфер",
+  "freq": 3
+ },
+ "channel": {
+  "ru": "канал",
+  "freq": 3
+ },
+ "chest": {
+  "ru": "сундук",
+  "freq": 3
+ },
+ "circuit board": {
+  "ru": "печатная плата",
+  "freq": 3
+ },
+ "Cleanroom": {
+  "ru": "чистая комната",
+  "freq": 3
+ },
+ "combustion engine": {
+  "ru": "двигатель внутреннего сгорания",
+  "freq": 3
+ },
+ "conduit": {
+  "ru": "кондуит",
+  "freq": 3
+ },
+ "efficiency": {
+  "ru": "эффективность",
+  "freq": 3
+ },
+ "electrolyzing": {
+  "ru": "электролиз",
+  "freq": 3
+ },
+ "energy buffer": {
+  "ru": "энергетический буфер",
+  "freq": 3
+ },
+ "EU/t": {
+  "ru": "EU/t",
+  "freq": 3
+ },
+ "fermenter": {
+  "ru": "бродильный аппарат",
+  "freq": 3
+ },
+ "fertilizer": {
+  "ru": "удобрение",
+  "freq": 3
+ },
+ "Fluid Regulator": {
+  "ru": "жидкостный регулятор",
+  "freq": 3
+ },
+ "Fluid Storage": {
+  "ru": "хранилище жидкости",
+  "freq": 3
+ },
+ "IC2": {
+  "ru": "IC2",
+  "freq": 3
+ },
+ "input bus": {
+  "ru": "входной люк",
+  "freq": 3
+ },
+ "Interface": {
+  "ru": "интерфейс",
+  "freq": 3
+ },
+ "IV": {
+  "ru": "IV",
+  "freq": 3
+ },
+ "jetpack": {
+  "ru": "джетпак",
+  "freq": 3
+ },
+ "launch pad": {
+  "ru": "пусковая площадка",
+  "freq": 3
+ },
+ "mixer": {
+  "ru": "миксер",
+  "freq": 3
+ },
+ "motor": {
+  "ru": "мотор",
+  "freq": 3
+ },
+ "muffler": {
+  "ru": "выхлопная система",
+  "freq": 3
+ },
+ "mutation": {
+  "ru": "мутация",
+  "freq": 3
+ },
+ "Nether": {
+  "ru": "Ад",
+  "freq": 3
+ },
+ "Nitric Acid": {
+  "ru": "азотная кислота",
+  "freq": 3
+ },
+ "oil": {
+  "ru": "нефть",
+  "freq": 3
+ },
+ "output bus": {
+  "ru": "выходной люк",
+  "freq": 3
+ },
+ "Oxygen Sealer": {
+  "ru": "уплотнитель кислорода",
+  "freq": 3
+ },
+ "P2P Tunnel": {
+  "ru": "Р2Р туннель",
+  "freq": 3
+ },
+ "pyrolyse oven": {
+  "ru": "пиролизная печь",
+  "freq": 3
+ },
+ "rocket engine": {
+  "ru": "ракетный двигатель",
+  "freq": 3
+ },
+ "rocket fuel": {
+  "ru": "ракетное топливо",
+  "freq": 3
+ },
+ "sigil": {
+  "ru": "сигил",
+  "freq": 3
+ },
+ "steam boiler": {
+  "ru": "паровой бойлер",
+  "freq": 3
+ },
+ "storage bus": {
+  "ru": "шина хранения",
+  "freq": 3
+ },
+ "Sulfuric Acid": {
+  "ru": "серная кислота",
+  "freq": 3
+ },
+ "superconductor": {
+  "ru": "сверхпроводник",
+  "freq": 3
+ },
+ "Thaumonomicon": {
+  "ru": "Таумономикон",
+  "freq": 3
+ },
+ "Titanium": {
+  "ru": "титан",
+  "freq": 3
+ },
+ "Vacuum Freezer": {
+  "ru": "вакуумный морозильник",
+  "freq": 3
+ },
+ "Wireless Terminal": {
+  "ru": "беспроводной терминал",
+  "freq": 3
+ },
+ "ZPM": {
+  "ru": "ZPM",
+  "freq": 3
+ },
+ "airlock": {
+  "ru": "воздушный шлюз",
+  "freq": 2
+ },
+ "Algae Farm": {
+  "ru": "ферма водорослей",
+  "freq": 2
+ },
+ "alloy": {
+  "ru": "сплав",
+  "freq": 2
+ },
+ "altar": {
+  "ru": "алтарь",
+  "freq": 2
+ },
+ "ammonia": {
+  "ru": "аммиак",
+  "freq": 2
+ },
+ "amp": {
+  "ru": "ампер",
+  "freq": 2
+ },
+ "Angel Wings": {
+  "ru": "крылья ангела",
+  "freq": 2
+ },
+ "Applied Energistics 2": {
+  "ru": "Applied Energistics 2",
+  "freq": 2
+ },
+ "Arc Lamp": {
+  "ru": "дуговая лампа",
+  "freq": 2
+ },
+ "armor": {
+  "ru": "броня",
+  "freq": 2
+ },
+ "autocrafting": {
+  "ru": "автокрафт",
+  "freq": 2
+ },
+ "Bacterial Vat": {
+  "ru": "бактериальный чан",
+  "freq": 2
+ },
+ "barrel": {
+  "ru": "бочка",
+  "freq": 2
+ },
+ "battery": {
+  "ru": "аккумулятор",
+  "freq": 2
+ },
+ "bender": {
+  "ru": "гибочный станок",
+  "freq": 2
+ },
+ "benzene": {
+  "ru": "бензол",
+  "freq": 2
+ },
+ "blast furnace": {
+  "ru": "доменная печь",
+  "freq": 2
+ },
+ "blood magic": {
+  "ru": "Blood Magic",
+  "freq": 2
+ },
+ "boiler tank": {
+  "ru": "котел",
+  "freq": 2
+ },
+ "booster": {
+  "ru": "ускоритель",
+  "freq": 2
+ },
+ "Botania": {
+  "ru": "Botania",
+  "freq": 2
+ },
+ "boule": {
+  "ru": "монокристалл",
+  "freq": 2
+ },
+ "casing": {
+  "ru": "корпус",
+  "freq": 2
+ },
+ "catalyst": {
+  "ru": "катализатор",
+  "freq": 2
+ },
+ "cauldron": {
+  "ru": "котелок",
+  "freq": 2
+ },
+ "Cetane-Boosted Diesel": {
+  "ru": "высокоцетановое дизельное топливо",
+  "freq": 2
+ },
+ "chemical bath": {
+  "ru": "химическая ванна",
+  "freq": 2
+ },
+ "chisel": {
+  "ru": "стамеска",
+  "freq": 2
+ },
+ "chunk": {
+  "ru": "чанк",
+  "freq": 2
+ },
+ "chunkloader": {
+  "ru": "мировой якорь",
+  "freq": 2
+ },
+ "coal tar": {
+  "ru": "каменноугольный дёготь",
+  "freq": 2
+ },
+ "Cobalt": {
+  "ru": "кобальт",
+  "freq": 2
+ },
+ "coil upgrade": {
+  "ru": "модернизация катушек",
+  "freq": 2
+ },
+ "control computer": {
+  "ru": "управляющий компьютер",
+  "freq": 2
+ },
+ "controller": {
+  "ru": "контроллер",
+  "freq": 2
+ },
+ "copper": {
+  "ru": "медная",
+  "freq": 2
+ },
+ "Crafting Storage": {
+  "ru": "хранилище создания",
+  "freq": 2
+ },
+ "crafting table": {
+  "ru": "верстак",
+  "freq": 2
+ },
+ "crop stick": {
+  "ru": "жёрдочка",
+  "freq": 2
+ },
+ "crowbar": {
+  "ru": "монтировка",
+  "freq": 2
+ },
+ "cutting machine": {
+  "ru": "режущий станок",
+  "freq": 2
+ },
+ "data stick": {
+  "ru": "флешка",
+  "freq": 2
+ },
+ "Dense Cable": {
+  "ru": "плотный кабель",
+  "freq": 2
+ },
+ "diamond": {
+  "ru": "алмазная",
+  "freq": 2
+ },
+ "distilled water": {
+  "ru": "дистиллированная вода",
+  "freq": 2
+ },
+ "drone": {
+  "ru": "трутень",
+  "freq": 2
+ },
+ "durability": {
+  "ru": "прочность",
+  "freq": 2
+ },
+ "Enceladus": {
+  "ru": "энцелад",
+  "freq": 2
+ },
+ "enchantment": {
+  "ru": "зачарование",
+  "freq": 2
+ },
+ "Energetic Alloy": {
+  "ru": "Энергетический сплав",
+  "freq": 2
+ },
+ "Energy Acceptor": {
+  "ru": "приёмщик энергии",
+  "freq": 2
+ },
+ "ethanol": {
+  "ru": "этанол",
+  "freq": 2
+ },
+ "familiar": {
+  "ru": "фамилиар",
+  "freq": 2
+ },
+ "firebox": {
+  "ru": "камера сгорания",
+  "freq": 2
+ },
+ "Firestone": {
+  "ru": "огненный камень",
+  "freq": 2
+ },
+ "fluid": {
+  "ru": "жидкость",
+  "freq": 2
+ },
+ "fluid extractor": {
+  "ru": "жидкостный экстрактор",
+  "freq": 2
+ },
+ "fluid loader": {
+  "ru": "загрузчик жидкостей",
+  "freq": 2
+ },
+ "focus": {
+  "ru": "фокус",
+  "freq": 2
+ },
+ "fuel canister": {
+  "ru": "канистра топлива",
+  "freq": 2
+ },
+ "fuel efficiency": {
+  "ru": "топливная эффективность",
+  "freq": 2
+ },
+ "fusion": {
+  "ru": "термоядерный синтез",
+  "freq": 2
+ },
+ "fusion reactor": {
+  "ru": "термоядерный реактор",
+  "freq": 2
+ },
+ "gas turbine": {
+  "ru": "газовая турбина",
+  "freq": 2
+ },
+ "gasoline": {
+  "ru": "бензин",
+  "freq": 2
+ },
+ "heavy fuel": {
+  "ru": "тяжёлое топливо",
+  "freq": 2
+ },
+ "Hydrogen Sulfide": {
+  "ru": "сероводород",
+  "freq": 2
+ },
+ "Implosion Compressor": {
+  "ru": "имплозионный компрессор",
+  "freq": 2
+ },
+ "Input Hatch": {
+  "ru": "входной шлюз",
+  "freq": 2
+ },
+ "item pipe": {
+  "ru": "предметная труба",
+  "freq": 2
+ },
+ "kinesis pipe": {
+  "ru": "энергетическая труба",
+  "freq": 2
+ },
+ "kinetic energy": {
+  "ru": "кинетическая энергия",
+  "freq": 2
+ },
+ "Lapotron": {
+  "ru": "лазуротроновый",
+  "freq": 2
+ },
+ "laser engraver": {
+  "ru": "лазерный гравировщик",
+  "freq": 2
+ },
+ "Launch Controller": {
+  "ru": "контроллер запуска",
+  "freq": 2
+ },
+ "leggings": {
+  "ru": "штанцы",
+  "freq": 2
+ },
+ "LFTR": {
+  "ru": "LFTR",
+  "freq": 2
+ },
+ "locomotive": {
+  "ru": "локомотив",
+  "freq": 2
+ },
+ "LuV": {
+  "ru": "LuV",
+  "freq": 2
+ },
+ "macerate": {
+  "ru": "дробить",
+  "freq": 2
+ },
+ "Machine Hull": {
+  "ru": "корпус механизма",
+  "freq": 2
+ },
+ "Maintenance Hatch": {
+  "ru": "люк техобслуживания",
+  "freq": 2
+ },
+ "manipulator": {
+  "ru": "манипулятор",
+  "freq": 2
+ },
+ "ME Controller": {
+  "ru": "МЭ контроллер",
+  "freq": 2
+ },
+ "ME Drive": {
+  "ru": "МЭ накопитель",
+  "freq": 2
+ },
+ "ME import bus": {
+  "ru": "МЭ шина импорта",
+  "freq": 2
+ },
+ "ME Interface": {
+  "ru": "МЭ интерфейс",
+  "freq": 2
+ },
+ "ME Terminal": {
+  "ru": "МЭ терминал",
+  "freq": 2
+ },
+ "meteor": {
+  "ru": "метеорит",
+  "freq": 2
+ },
+ "Methane": {
+  "ru": "метан",
+  "freq": 2
+ },
+ "mining pipe": {
+  "ru": "буровая труба",
+  "freq": 2
+ },
+ "monocrystalline silicon": {
+  "ru": "монокристалл кремния",
+  "freq": 2
+ },
+ "Mothership": {
+  "ru": "космический корабль",
+  "freq": 2
+ },
+ "muffler hatch": {
+  "ru": "выхлопная система",
+  "freq": 2
+ },
+ "naphtha": {
+  "ru": "нафта",
+  "freq": 2
+ },
+ "nose cone": {
+  "ru": "головной обтекатель",
+  "freq": 2
+ },
+ "nuclear fuel": {
+  "ru": "ядерное топливо",
+  "freq": 2
+ },
+ "nuke": {
+  "ru": "ядерный реактор",
+  "freq": 2
+ },
+ "oil drilling rig": {
+  "ru": "буровая установка",
+  "freq": 2
+ },
+ "ore dust": {
+  "ru": "пыль руды",
+  "freq": 2
+ },
+ "Output Hatch": {
+  "ru": "выходной шлюз",
+  "freq": 2
+ },
+ "Overworld": {
+  "ru": "основной мир",
+  "freq": 2
+ },
+ "Oxygen": {
+  "ru": "кислород",
+  "freq": 2
+ },
+ "Oxygen Gear": {
+  "ru": "кислородное оборудование",
+  "freq": 2
+ },
+ "parachute": {
+  "ru": "парашют",
+  "freq": 2
+ },
+ "parallel": {
+  "ru": "параллельный",
+  "freq": 2
+ },
+ "pattern": {
+  "ru": "шаблон",
+  "freq": 2
+ },
+ "Plutonium": {
+  "ru": "плутоний",
+  "freq": 2
+ },
+ "pump": {
+  "ru": "насос",
+  "freq": 2
+ },
+ "quantum chest": {
+  "ru": "Квантовый сундук",
+  "freq": 2
+ },
+ "Quantum Computer": {
+  "ru": "Квантовый компьютер",
+  "freq": 2
+ },
+ "Quantum Storage": {
+  "ru": "квантовое хранилище",
+  "freq": 2
+ },
+ "Redstone Alloy": {
+  "ru": "Сплав красного камня",
+  "freq": 2
+ },
+ "refinery gas": {
+  "ru": "нефтяной газ",
+  "freq": 2
+ },
+ "replicator": {
+  "ru": "репликатор",
+  "freq": 2
+ },
+ "research": {
+  "ru": "исследование",
+  "freq": 2
+ },
+ "SAG mill": {
+  "ru": "дробитель",
+  "freq": 2
+ },
+ "sapling": {
+  "ru": "саженец",
+  "freq": 2
+ },
+ "seed": {
+  "ru": "семя",
+  "freq": 2
+ },
+ "shadow metal": {
+  "ru": "теневой металл",
+  "freq": 2
+ },
+ "shard": {
+  "ru": "кристалл",
+  "freq": 2
+ },
+ "shulker box": {
+  "ru": "шалкеровый ящик",
+  "freq": 2
+ },
+ "silicon dioxide": {
+  "ru": "диоксид кремния",
+  "freq": 2
+ },
+ "silicon wafer": {
+  "ru": "кремниевая вафля",
+  "freq": 2
+ },
+ "Singularity": {
+  "ru": "сингулярность",
+  "freq": 2
+ },
+ "slate": {
+  "ru": "плита",
+  "freq": 2
+ },
+ "slimeling": {
+  "ru": "слаймлинг",
+  "freq": 2
+ },
+ "smelter": {
+  "ru": "плавилка",
+  "freq": 2
+ },
+ "sodium hydroxide": {
+  "ru": "гидроксид натрия",
+  "freq": 2
+ },
+ "Solar Boiler": {
+  "ru": "солнечный бойлер",
+  "freq": 2
+ },
+ "solar panel": {
+  "ru": "солнечная панель",
+  "freq": 2
+ },
+ "stainless steel": {
+  "ru": "нержавеющая сталь",
+  "freq": 2
+ },
+ "steel": {
+  "ru": "стальная",
+  "freq": 2
+ },
+ "storage": {
+  "ru": "хранение",
+  "freq": 2
+ },
+ "synchrotron": {
+  "ru": "синхротрон",
+  "freq": 2
+ },
+ "tank": {
+  "ru": "резервуар",
+  "freq": 2
+ },
+ "teleportation": {
+  "ru": "телепортация",
+  "freq": 2
+ },
+ "Terminal": {
+  "ru": "терминал",
+  "freq": 2
+ },
+ "thaumium": {
+  "ru": "таум-металл",
+  "freq": 2
+ },
+ "Thermal Boiler": {
+  "ru": "тепловой бойлер",
+  "freq": 2
+ },
+ "thorium": {
+  "ru": "торий",
+  "freq": 2
+ },
+ "transformer": {
+  "ru": "трансформатор",
+  "freq": 2
+ },
+ "Tree Growth Simulator": {
+  "ru": "симулятор роста деревьев",
+  "freq": 2
+ },
+ "tube": {
+  "ru": "лампа",
+  "freq": 2
+ },
+ "Tungsten": {
+  "ru": "Tungsten",
+  "freq": 2
+ },
+ "upgrade": {
+  "ru": "улучшение",
+  "freq": 2
+ },
+ "uranium": {
+  "ru": "уран",
+  "freq": 2
+ },
+ "UUM": {
+  "ru": "жидкая материя",
+  "freq": 2
+ },
+ "UV": {
+  "ru": "UV",
+  "freq": 2
+ },
+ "vat": {
+  "ru": "чан",
+  "freq": 2
+ },
+ "vein": {
+  "ru": "жила",
+  "freq": 2
+ },
+ "wand focus": {
+  "ru": "жезл фокус",
+  "freq": 2
+ },
+ "water": {
+  "ru": "вода",
+  "freq": 2
+ },
+ "weed": {
+  "ru": "сорняк",
+  "freq": 2
+ },
+ "Windmill": {
+  "ru": "Ветряная мельница",
+  "freq": 2
+ },
+ "wire": {
+  "ru": "провод",
+  "freq": 2
+ },
+ "wireless": {
+  "ru": "беспроводный",
+  "freq": 2
+ },
+ "wireless charger": {
+  "ru": "беспроводное зарядное устройство",
+  "freq": 2
+ },
+ "absorption filter": {
+  "ru": "абсорбирующий фильтр",
+  "freq": 1
+ },
+ "acetic acid": {
+  "ru": "уксусная кислота",
+  "freq": 1
+ },
+ "advanced circuit": {
+  "ru": "продвинутая электросхема",
+  "freq": 1
+ },
+ "AE Channel": {
+  "ru": "канал",
+  "freq": 1
+ },
+ "AE2FC": {
+  "ru": "AE2FC",
+  "freq": 1
+ },
+ "air filter": {
+  "ru": "воздушный фильтр",
+  "freq": 1
+ },
+ "air quality": {
+  "ru": "качество воздуха",
+  "freq": 1
+ },
+ "alchemical furnace": {
+  "ru": "алхимическая печь",
+  "freq": 1
+ },
+ "Alfheim": {
+  "ru": "Альфхей",
+  "freq": 1
+ },
+ "algae pond": {
+  "ru": "пруд с водорослями",
+  "freq": 1
+ },
+ "alumina dust": {
+  "ru": "глинозём",
+  "freq": 1
+ },
+ "Ambient Thermal Controller": {
+  "ru": "тепловой контроллер",
+  "freq": 1
+ },
+ "ancient debris": {
+  "ru": "древние обломки",
+  "freq": 1
+ },
+ "Annihilation": {
+  "ru": "уничтожение",
+  "freq": 1
+ },
+ "antenna casing": {
+  "ru": "антеннный корпус",
+  "freq": 1
+ },
+ "APU": {
+  "ru": "APU",
+  "freq": 1
+ },
+ "arcan lamp": {
+  "ru": "магический светильник",
+  "freq": 1
+ },
+ "Arcane": {
+  "ru": "Магическая",
+  "freq": 1
+ },
+ "arcane assembler": {
+  "ru": "Магический сборщик",
+  "freq": 1
+ },
+ "armor mold": {
+  "ru": "форма для брони",
+  "freq": 1
+ },
+ "armor of the dead": {
+  "ru": "броня мертвецов",
+  "freq": 1
+ },
+ "Artificial Universe": {
+  "ru": "искусственная вселенная",
+  "freq": 1
+ },
+ "assembling machine": {
+  "ru": "сборочная машина",
+  "freq": 1
+ },
+ "astro miner": {
+  "ru": "астрономический шахтёр",
+  "freq": 1
+ },
+ "attuned stone": {
+  "ru": "камень силы",
+  "freq": 1
+ },
+ "Ball of Moss": {
+  "ru": "шар мха",
+  "freq": 1
+ },
+ "battery buffer": {
+  "ru": "аккумуляторный буфер",
+  "freq": 1
+ },
+ "battery hull": {
+  "ru": "аккумуляторный корпус",
+  "freq": 1
+ },
+ "BBF": {
+  "ru": "КДП",
+  "freq": 1
+ },
+ "beamline pipe": {
+  "ru": "труба установки для литографии",
+  "freq": 1
+ },
+ "bedrockium drum": {
+  "ru": "бочка из бедрокия",
+  "freq": 1
+ },
+ "bending machine": {
+  "ru": "гибочный станок",
+  "freq": 1
+ },
+ "bio diesel": {
+  "ru": "биодизель",
+  "freq": 1
+ },
+ "bio fuel": {
+  "ru": "биотопливо",
+  "freq": 1
+ },
+ "biometric card": {
+  "ru": "биометрическая карта",
+  "freq": 1
+ },
+ "Blank Gem": {
+  "ru": "Пустой самоцвет",
+  "freq": 1
+ },
+ "blood altar": {
+  "ru": "кровавый алтарь",
+  "freq": 1
+ },
+ "blood point": {
+  "ru": "LP",
+  "freq": 1
+ },
+ "boronic fusion": {
+  "ru": "синтез бора",
+  "freq": 1
+ },
+ "bound armor": {
+  "ru": "связанная броня",
+  "freq": 1
+ },
+ "bound tool": {
+  "ru": "связанный инструмент",
+  "freq": 1
+ },
+ "buffered tube": {
+  "ru": "буфер для эссенции",
+  "freq": 1
+ },
+ "buggy seat": {
+  "ru": "сиденье багги",
+  "freq": 1
+ },
+ "canning machine": {
+  "ru": "наполнитель",
+  "freq": 1
+ },
+ "Canopy Tree": {
+  "ru": "Сумеречная сосна",
+  "freq": 1
+ },
+ "carbon mesh": {
+  "ru": "углеткань",
+  "freq": 1
+ },
+ "carbon parts": {
+  "ru": "заготовки из углепластика",
+  "freq": 1
+ },
+ "carbon plate": {
+  "ru": "углепластик",
+  "freq": 1
+ },
+ "cargo rocket": {
+  "ru": "грузовая ракета",
+  "freq": 1
+ },
+ "Carpenter's Blocks": {
+  "ru": "Carpenter's Blocks",
+  "freq": 1
+ },
+ "cart module": {
+  "ru": "модуль вагонетки",
+  "freq": 1
+ },
+ "casting basin": {
+  "ru": "литейный резервуар",
+  "freq": 1
+ },
+ "Catwalks": {
+  "ru": "Catwalks",
+  "freq": 1
+ },
+ "cell workbench": {
+  "ru": "Верстак для ячеек",
+  "freq": 1
+ },
+ "charge pack": {
+  "ru": "портативный зарядник",
+  "freq": 1
+ },
+ "charging crystal": {
+  "ru": "заряжающий энергетический кристалл",
+  "freq": 1
+ },
+ "charm of dislocation": {
+  "ru": "амулет телепортации",
+  "freq": 1
+ },
+ "chemical dehydrator": {
+  "ru": "дегидратор",
+  "freq": 1
+ },
+ "chunk loader": {
+  "ru": "загрузчик чанков",
+  "freq": 1
+ },
+ "Circle Magic": {
+  "ru": "Магия Кругов",
+  "freq": 1
+ },
+ "circuit assembly line": {
+  "ru": "сборочная линия электросхем",
+  "freq": 1
+ },
+ "circuit wafer": {
+  "ru": "вафля для схем",
+  "freq": 1
+ },
+ "clay dust": {
+  "ru": "глиняная пыль",
+  "freq": 1
+ },
+ "clay pit furnace": {
+  "ru": "кирпичная доменная печь",
+  "freq": 1
+ },
+ "Co-Processing": {
+  "ru": "сопроцессор",
+  "freq": 1
+ },
+ "collector jar": {
+  "ru": "коллекционные банки",
+  "freq": 1
+ },
+ "component assembly line": {
+  "ru": "компонентная сборочная линия",
+  "freq": 1
+ },
+ "compressed air cells": {
+  "ru": "капсулы сжатого воздуха",
+  "freq": 1
+ },
+ "compressed desh": {
+  "ru": "сжатая деш",
+  "freq": 1
+ },
+ "compressed solar": {
+  "ru": "сжатая солнечная панель",
+  "freq": 1
+ },
+ "compressed steel": {
+  "ru": "сжатая сталь",
+  "freq": 1
+ },
+ "compressed titan": {
+  "ru": "сжатый титан",
+  "freq": 1
+ },
+ "computer rack": {
+  "ru": "стойка квантового компьютера",
+  "freq": 1
+ },
+ "controller block": {
+  "ru": "блок контроллера",
+  "freq": 1
+ },
+ "Cooling Core": {
+  "ru": "охлаждающее ядро",
+  "freq": 1
+ },
+ "crafting CPU": {
+  "ru": "процессор создания",
+  "freq": 1
+ },
+ "Crafting Monitor": {
+  "ru": "монитор создания",
+  "freq": 1
+ },
+ "crop stats": {
+  "ru": "характеристики растений",
+  "freq": 1
+ },
+ "crushed ore": {
+  "ru": "измельчённая руда",
+  "freq": 1
+ },
+ "crystal growth": {
+  "ru": "рост кристаллов",
+  "freq": 1
+ },
+ "Crystal Growth Chamber": {
+  "ru": "Камера для выращивания кристаллов",
+  "freq": 1
+ },
+ "cursed earth": {
+  "ru": "проклятая земля",
+  "freq": 1
+ },
+ "dark energy": {
+  "ru": "тёмная энергия",
+  "freq": 1
+ },
+ "dark steel": {
+  "ru": "тёмная сталь",
+  "freq": 1
+ },
+ "Dark Steel Chest": {
+  "ru": "сундук из тёмной стали",
+  "freq": 1
+ },
+ "dark steel pipe": {
+  "ru": "труба из тёмной стали",
+  "freq": 1
+ },
+ "Dark Steel Tools": {
+  "ru": "инструменты из тёмной стали",
+  "freq": 1
+ },
+ "data access hatch": {
+  "ru": "шлюз доступа к данным",
+  "freq": 1
+ },
+ "data bank": {
+  "ru": "банк данных",
+  "freq": 1
+ },
+ "data orb": {
+  "ru": "сфера данных",
+  "freq": 1
+ },
+ "decay warehouse": {
+  "ru": "Промышленное радиоизотопное хранилище",
+  "freq": 1
+ },
+ "Demon": {
+  "ru": "демон",
+  "freq": 1
+ },
+ "demonic contract": {
+  "ru": "демонический контракт",
+  "freq": 1
+ },
+ "dense plate": {
+  "ru": "плотная пластина",
+  "freq": 1
+ },
+ "detector rail": {
+  "ru": "нажимные рельсы",
+  "freq": 1
+ },
+ "diesel fuel": {
+  "ru": "дизельное топливо",
+  "freq": 1
+ },
+ "digital storage": {
+  "ru": "цифровое хранилище",
+  "freq": 1
+ },
+ "Dimensional Chest": {
+  "ru": "Сундук измерения",
+  "freq": 1
+ },
+ "dire wolf": {
+  "ru": "ужасный волк",
+  "freq": 1
+ },
+ "dissolution tank": {
+  "ru": "реактор-разбавитель",
+  "freq": 1
+ },
+ "Draconic": {
+  "ru": "Драконья",
+  "freq": 1
+ },
+ "Draconium": {
+  "ru": "драконий",
+  "freq": 1
+ },
+ "dragon blood": {
+  "ru": "драконья кровь",
+  "freq": 1
+ },
+ "drilling fluid": {
+  "ru": "буровая жидкость",
+  "freq": 1
+ },
+ "dripping combs": {
+  "ru": "капающие соты",
+  "freq": 1
+ },
+ "Dyson": {
+  "ru": "Дайсон",
+  "freq": 1
+ },
+ "Dyson Swarm": {
+  "ru": "рой Дайсона",
+  "freq": 1
+ },
+ "electric blast furnace (EBF)": {
+  "ru": "электрическая доменная печь (EBF)",
+  "freq": 1
+ },
+ "electric locomotive": {
+  "ru": "электровоз",
+  "freq": 1
+ },
+ "electric tree tap": {
+  "ru": "электрокраник",
+  "freq": 1
+ },
+ "electron tube": {
+  "ru": "электронная лампа",
+  "freq": 1
+ },
+ "electron tubes": {
+  "ru": "электронные лампы",
+  "freq": 1
+ },
+ "end dust": {
+  "ru": "порошок края",
+  "freq": 1
+ },
+ "Ender Backpack": {
+  "ru": "Рюкзак Края",
+  "freq": 1
+ },
+ "ender dragon": {
+  "ru": "дракон края",
+  "freq": 1
+ },
+ "Ender Pearl": {
+  "ru": "жемчуг эндера",
+  "freq": 1
+ },
+ "Ender Quarry": {
+  "ru": "Карьер Края",
+  "freq": 1
+ },
+ "Ender Shard": {
+  "ru": "Кристалл Края",
+  "freq": 1
+ },
+ "energy crystal": {
+  "ru": "энергетический кристалл",
+  "freq": 1
+ },
+ "Energy Wand": {
+  "ru": "энергия жезл",
+  "freq": 1
+ },
+ "Enriched Naquadah": {
+  "ru": "обогащенный наквадах",
+  "freq": 1
+ },
+ "ent twig": {
+  "ru": "ветвь энта",
+  "freq": 1
+ },
+ "epoxid plate": {
+  "ru": "пластины из эпоксидной смолы",
+  "freq": 1
+ },
+ "Essence Altar": {
+  "ru": "Essence алтарь",
+  "freq": 1
+ },
+ "Essentia Component": {
+  "ru": "компонент хранения эссенции",
+  "freq": 1
+ },
+ "essentia generator": {
+  "ru": "генератор на эссенции",
+  "freq": 1
+ },
+ "Europium": {
+  "ru": "европий",
+  "freq": 1
+ },
+ "EVA equipment": {
+  "ru": "оборудование для работы в открытом космосе",
+  "freq": 1
+ },
+ "external storage": {
+  "ru": "внешнее хранилище",
+  "freq": 1
+ },
+ "farm gearbox": {
+  "ru": "редуктор",
+  "freq": 1
+ },
+ "feeder unit": {
+  "ru": "питающее устройство",
+  "freq": 1
+ },
+ "filing cabinet": {
+  "ru": "картотечный шкаф",
+  "freq": 1
+ },
+ "Filter Machine Casing": {
+  "ru": "фильтрационный корпус",
+  "freq": 1
+ },
+ "Firestone ore": {
+  "ru": "огненный камень",
+  "freq": 1
+ },
+ "fish oil": {
+  "ru": "рыбий жир",
+  "freq": 1
+ },
+ "flame imp": {
+  "ru": "огненный имп",
+  "freq": 1
+ },
+ "Flower Power": {
+  "ru": "Цветочная энергия",
+  "freq": 1
+ },
+ "fluid cell": {
+  "ru": "ячейка для жидкостей",
+  "freq": 1
+ },
+ "fluid hatch": {
+  "ru": "жидкостный шлюз",
+  "freq": 1
+ },
+ "fluid heater": {
+  "ru": "жидкостный нагреватель",
+  "freq": 1
+ },
+ "fluid reactor": {
+  "ru": "жидкостный реактор",
+  "freq": 1
+ },
+ "fluid terminal": {
+  "ru": "терминал для жидкостей",
+  "freq": 1
+ },
+ "fluid unloader": {
+  "ru": "разгрузчик жидкостей",
+  "freq": 1
+ },
+ "Fluix": {
+  "ru": "Изменчивая",
+  "freq": 1
+ },
+ "Fluix Crystal": {
+  "ru": "изменчивый кристалл",
+  "freq": 1
+ },
+ "force plasma": {
+  "ru": "форс плазма",
+  "freq": 1
+ },
+ "forge hammer": {
+  "ru": "молот",
+  "freq": 1
+ },
+ "Formation": {
+  "ru": "формирование",
+  "freq": 1
+ },
+ "frequency module": {
+  "ru": "частотный модуль",
+  "freq": 1
+ },
+ "fuel rod": {
+  "ru": "топливный стержень",
+  "freq": 1
+ },
+ "fume funnel": {
+  "ru": "воронка",
+  "freq": 1
+ },
+ "fusion chain": {
+  "ru": "цепочка синтеза",
+  "freq": 1
+ },
+ "galena ore": {
+  "ru": "галенитовая руда",
+  "freq": 1
+ },
+ "gallium arsenide": {
+  "ru": "арсенид галлия",
+  "freq": 1
+ },
+ "Garnet": {
+  "ru": "гранат",
+  "freq": 1
+ },
+ "Gas Planet": {
+  "ru": "газовая планета",
+  "freq": 1
+ },
+ "gateways (celestial)": {
+  "ru": "небесные порталы",
+  "freq": 1
+ },
+ "gateways (planar)": {
+  "ru": "планарные врата",
+  "freq": 1
+ },
+ "gene extractor": {
+  "ru": "экстрактор генов",
+  "freq": 1
+ },
+ "geothermal energy": {
+  "ru": "геотермальная энергия",
+  "freq": 1
+ },
+ "geothermal power": {
+  "ru": "геотермальная энергия",
+  "freq": 1
+ },
+ "glider wings": {
+  "ru": "дельтаплан",
+  "freq": 1
+ },
+ "glowstone rod": {
+  "ru": "стержень из светящегося камня",
+  "freq": 1
+ },
+ "golden lasso": {
+  "ru": "золотое лассо",
+  "freq": 1
+ },
+ "graphics card": {
+  "ru": "видеокарта",
+  "freq": 1
+ },
+ "Gravi Suit": {
+  "ru": "гравитационный жилет",
+  "freq": 1
+ },
+ "gravity boots": {
+  "ru": "гравитационные ботинки",
+  "freq": 1
+ },
+ "greatwood wand": {
+  "ru": "великодревесный жезл",
+  "freq": 1
+ },
+ "GregTech machine": {
+  "ru": "механизм GregTech",
+  "freq": 1
+ },
+ "grinding head": {
+  "ru": "шлифовальная головка",
+  "freq": 1
+ },
+ "Hafnium": {
+  "ru": "гафний",
+  "freq": 1
+ },
+ "hard drive": {
+  "ru": "жёсткий диск",
+  "freq": 1
+ },
+ "Hardcore End(er) Expansion": {
+  "ru": "Хардкорный Край",
+  "freq": 1
+ },
+ "Hazmat suit": {
+  "ru": "защитный костюм",
+  "freq": 1
+ },
+ "HDD": {
+  "ru": "HDD",
+  "freq": 1
+ },
+ "heat unit per tick": {
+  "ru": "единица тепла за тик",
+  "freq": 1
+ },
+ "heat vent": {
+  "ru": "теплоотвод",
+  "freq": 1
+ },
+ "heavy duty": {
+  "ru": "прочный",
+  "freq": 1
+ },
+ "heavy duty plates": {
+  "ru": "сверхпрочное покрытие",
+  "freq": 1
+ },
+ "high-pressure boiler": {
+  "ru": "котел высокого давления",
+  "freq": 1
+ },
+ "Holo Glasses": {
+  "ru": "Голографические очки",
+  "freq": 1
+ },
+ "hover mode": {
+  "ru": "режим удержания высоты",
+  "freq": 1
+ },
+ "HSS-G coil": {
+  "ru": "HSS-G катушка",
+  "freq": 1
+ },
+ "HTGR": {
+  "ru": "ВГР",
+  "freq": 1
+ },
+ "HV tier": {
+  "ru": "HV этап",
+  "freq": 1
+ },
+ "Hydra": {
+  "ru": "гидра",
+  "freq": 1
+ },
+ "Hydro Dam": {
+  "ru": "Гидроэлектростанция",
+  "freq": 1
+ },
+ "hydrochloric acid": {
+  "ru": "соляная кислота",
+  "freq": 1
+ },
+ "hydrogen peroxide": {
+  "ru": "перекись водорода",
+  "freq": 1
+ },
+ "Ichorium": {
+  "ru": "Ихорий",
+  "freq": 1
+ },
+ "illimunated panel": {
+  "ru": "осветительная панель",
+  "freq": 1
+ },
+ "Indium": {
+  "ru": "индий",
+  "freq": 1
+ },
+ "Industrial 3D Copying Machine": {
+  "ru": "промышленный 3D копировальный механизм",
+  "freq": 1
+ },
+ "information panel": {
+  "ru": "информационная панель",
+  "freq": 1
+ },
+ "infused solar": {
+  "ru": "наполненная солнечная панель",
+  "freq": 1
+ },
+ "input voltage": {
+  "ru": "входное напряжение",
+  "freq": 1
+ },
+ "integrated circuit": {
+  "ru": "логическая интегральная схема",
+  "freq": 1
+ },
+ "inventory relay": {
+  "ru": "реле инвентаря",
+  "freq": 1
+ },
+ "iridium plated": {
+  "ru": "иридиевое покрытие",
+  "freq": 1
+ },
+ "item broadcaster": {
+  "ru": "передатчик предметов",
+  "freq": 1
+ },
+ "item extractor chip": {
+  "ru": "чип извлекатель предметов",
+  "freq": 1
+ },
+ "item responder chip": {
+  "ru": "чип получатель предметов",
+  "freq": 1
+ },
+ "item sink": {
+  "ru": "ItemSink",
+  "freq": 1
+ },
+ "item storage": {
+  "ru": "хранилище предметов",
+  "freq": 1
+ },
+ "Item Storage Cell": {
+  "ru": "предметная ячейка хранения",
+  "freq": 1
+ },
+ "ItemSink": {
+  "ru": "ItemSink",
+  "freq": 1
+ },
+ "jetpack (electric)": {
+  "ru": "электрический реактивный ранец",
+  "freq": 1
+ },
+ "jetpack (fueled)": {
+  "ru": "реактивный ранец",
+  "freq": 1
+ },
+ "jetpack (steam)": {
+  "ru": "паровой ранец",
+  "freq": 1
+ },
+ "kanthal coil": {
+  "ru": "канталовая катушка",
+  "freq": 1
+ },
+ "kinetic generator": {
+  "ru": "кинетический генератор",
+  "freq": 1
+ },
+ "kinetic water power": {
+  "ru": "кинетическая энергия воды",
+  "freq": 1
+ },
+ "kinetic wind generator": {
+  "ru": "ветрогенератор",
+  "freq": 1
+ },
+ "kinetic wind power": {
+  "ru": "кинетическая энергия ветра",
+  "freq": 1
+ },
+ "lapis lazuli": {
+  "ru": "ляпис-лазурь",
+  "freq": 1
+ },
+ "large boiler": {
+  "ru": "Большой бойлер",
+  "freq": 1
+ },
+ "Large Combustion Engine": {
+  "ru": "Большой двигатель сгорания",
+  "freq": 1
+ },
+ "Large Steam Turbine": {
+  "ru": "Большая паровая турбина",
+  "freq": 1
+ },
+ "large thermal centrifuge": {
+  "ru": "большая термальная центрифуга",
+  "freq": 1
+ },
+ "laser hatch": {
+  "ru": "лазерный люк",
+  "freq": 1
+ },
+ "laser overclock": {
+  "ru": "лазерный разгон",
+  "freq": 1
+ },
+ "Lava Filter": {
+  "ru": "лавовый фильтр",
+  "freq": 1
+ },
+ "lava lake": {
+  "ru": "озеро лавы",
+  "freq": 1
+ },
+ "lava power": {
+  "ru": "лава энергия",
+  "freq": 1
+ },
+ "lead-zinc solution": {
+  "ru": "свинцово-цинковый раствор",
+  "freq": 1
+ },
+ "LESU upgrade": {
+  "ru": "улучшение LESU",
+  "freq": 1
+ },
+ "level emitter": {
+  "ru": "излучатель уровня",
+  "freq": 1
+ },
+ "Lich": {
+  "ru": "лич",
+  "freq": 1
+ },
+ "LINAC": {
+  "ru": "LINAC",
+  "freq": 1
+ },
+ "Linear Accelerator": {
+  "ru": "линейный ускоритель",
+  "freq": 1
+ },
+ "Liquid Air": {
+  "ru": "жидкий воздух",
+  "freq": 1
+ },
+ "logistics pipe": {
+  "ru": "логистическая труба",
+  "freq": 1
+ },
+ "logistics pipes": {
+  "ru": "Logistics Pipes",
+  "freq": 1
+ },
+ "lord of torment": {
+  "ru": "повелитель мучений",
+  "freq": 1
+ },
+ "low-pressure boiler": {
+  "ru": "котел низкого давления",
+  "freq": 1
+ },
+ "machine chassis": {
+  "ru": "корпус механизма",
+  "freq": 1
+ },
+ "Magic Map Focus": {
+  "ru": "Магическое перо",
+  "freq": 1
+ },
+ "magical flower": {
+  "ru": "волшебный цветок",
+  "freq": 1
+ },
+ "magical terminal": {
+  "ru": "магический терминал",
+  "freq": 1
+ },
+ "MagLev": {
+  "ru": "магнитная левитация",
+  "freq": 1
+ },
+ "magma cube": {
+  "ru": "магмовый куб",
+  "freq": 1
+ },
+ "Magnum Torch": {
+  "ru": "Большой факел",
+  "freq": 1
+ },
+ "Mana Diamonds": {
+  "ru": "Манаалмазы",
+  "freq": 1
+ },
+ "mana fountain": {
+  "ru": "мана фонтан",
+  "freq": 1
+ },
+ "mana generation": {
+  "ru": "генерация маны",
+  "freq": 1
+ },
+ "mana pool": {
+  "ru": "бассейн маны",
+  "freq": 1
+ },
+ "mana tablet": {
+  "ru": "планшет маны",
+  "freq": 1
+ },
+ "manure slurry": {
+  "ru": "навозная жижа",
+  "freq": 1
+ },
+ "mars lander": {
+  "ru": "марсианский посадочный модуль",
+  "freq": 1
+ },
+ "mass fabricator": {
+  "ru": "генератор материи",
+  "freq": 1
+ },
+ "mass processing": {
+  "ru": "массовая переработка",
+  "freq": 1
+ },
+ "ME annihilation plane": {
+  "ru": "МЭ плоскость уничтожения",
+  "freq": 1
+ },
+ "me cell": {
+  "ru": "МЭ ячейка",
+  "freq": 1
+ },
+ "ME channel": {
+  "ru": "МЭ канал",
+  "freq": 1
+ },
+ "ME Chest": {
+  "ru": "МЭ сундук",
+  "freq": 1
+ },
+ "ME Data Storage": {
+  "ru": "хранилище данных МЭ сети",
+  "freq": 1
+ },
+ "ME export bus": {
+  "ru": "МЭ шина экспорта",
+  "freq": 1
+ },
+ "ME formation plane": {
+  "ru": "МЭ плоскость формирования",
+  "freq": 1
+ },
+ "ME IO Port": {
+  "ru": "МЭ порт ввода-вывода",
+  "freq": 1
+ },
+ "ME security terminal": {
+  "ru": "МЭ терминал безопасности",
+  "freq": 1
+ },
+ "ME system": {
+  "ru": "МЭ система",
+  "freq": 1
+ },
+ "Mega Multiblock Furnace": {
+  "ru": "Мега печь",
+  "freq": 1
+ },
+ "meteoric iron": {
+  "ru": "метеоритное железо",
+  "freq": 1
+ },
+ "meteoric steel": {
+  "ru": "метеоритная сталь",
+  "freq": 1
+ },
+ "metrics transmitter cover": {
+  "ru": "модуль передатчика метрик",
+  "freq": 1
+ },
+ "mining level": {
+  "ru": "уровень добычи",
+  "freq": 1
+ },
+ "mob repellant": {
+  "ru": "отпугиватель монстров",
+  "freq": 1
+ },
+ "molecular assembler": {
+  "ru": "молекулярный сборщик",
+  "freq": 1
+ },
+ "Monster Hunter": {
+  "ru": "охотник на монстров",
+  "freq": 1
+ },
+ "moon lander": {
+  "ru": "лунный посадочный модуль",
+  "freq": 1
+ },
+ "MOX": {
+  "ru": "MOX",
+  "freq": 1
+ },
+ "multiblock miner": {
+  "ru": "мультиблочный бур",
+  "freq": 1
+ },
+ "Mutagen": {
+  "ru": "мутаген",
+  "freq": 1
+ },
+ "mutandis extremis": {
+  "ru": "Мутандис Экстремис",
+  "freq": 1
+ },
+ "MV mixer": {
+  "ru": "MV миксер",
+  "freq": 1
+ },
+ "Naga": {
+  "ru": "нага",
+  "freq": 1
+ },
+ "NaK coolant": {
+  "ru": "охлаждающие стержни NaK",
+  "freq": 1
+ },
+ "Nano Boots of the Traveller": {
+  "ru": "нано-ботинки путешественника",
+  "freq": 1
+ },
+ "Nano Chestplate": {
+  "ru": "наножилет",
+  "freq": 1
+ },
+ "Nano Crystal": {
+  "ru": "нано кристалл",
+  "freq": 1
+ },
+ "nano forge": {
+  "ru": "нано кузница",
+  "freq": 1
+ },
+ "nano goggles": {
+  "ru": "нано-очки",
+  "freq": 1
+ },
+ "naquadah coil": {
+  "ru": "наквадаховая катушка",
+  "freq": 1
+ },
+ "naquadah doped monocrystalline silicon": {
+  "ru": "монокристалл кремния легированный наквадахом",
+  "freq": 1
+ },
+ "naquadah fuel refinery": {
+  "ru": "наквадаховый топливный завод",
+  "freq": 1
+ },
+ "naquadah reactor": {
+  "ru": "наквадаховый реактор",
+  "freq": 1
+ },
+ "NASA workbench": {
+  "ru": "верстак NASA",
+  "freq": 1
+ },
+ "neon plasma": {
+  "ru": "неоновая плазма",
+  "freq": 1
+ },
+ "Nether Shard": {
+  "ru": "Адский кристалл",
+  "freq": 1
+ },
+ "network card": {
+  "ru": "сетевая карта",
+  "freq": 1
+ },
+ "neutron accelerator": {
+  "ru": "ускоритель нейтронов",
+  "freq": 1
+ },
+ "neutron activator": {
+  "ru": "нейтронный активатор",
+  "freq": 1
+ },
+ "neutron sensor": {
+  "ru": "сенсор нейтронов",
+  "freq": 1
+ },
+ "nichrome coil": {
+  "ru": "нихромовая катушка",
+  "freq": 1
+ },
+ "Nightvision Goggle": {
+  "ru": "очки ночного зрения",
+  "freq": 1
+ },
+ "nitrogen tetroxide": {
+  "ru": "тетраоксид азота",
+  "freq": 1
+ },
+ "nuclear fuel processing": {
+  "ru": "ядерное топливо обработка",
+  "freq": 1
+ },
+ "nuclear reactor": {
+  "ru": "ядерный реактор",
+  "freq": 1
+ },
+ "Oberon": {
+  "ru": "Оберон",
+  "freq": 1
+ },
+ "Oil Cracking Unit": {
+  "ru": "Установка для крекинга нефти",
+  "freq": 1
+ },
+ "oil pump": {
+  "ru": "помпа",
+  "freq": 1
+ },
+ "OpenComputers": {
+  "ru": "OpenComputers",
+  "freq": 1
+ },
+ "optical fiber cable": {
+  "ru": "оптоволоконный кабель",
+  "freq": 1
+ },
+ "Optical Fiber Cables": {
+  "ru": "Оптическое волоконное кабель",
+  "freq": 1
+ },
+ "Optical Reception Connector": {
+  "ru": "Оптический входной разъём",
+  "freq": 1
+ },
+ "Optical Transmission Connector": {
+  "ru": "Оптический выходной разъём",
+  "freq": 1
+ },
+ "ore chunk": {
+  "ru": "рудный чанк",
+  "freq": 1
+ },
+ "ore crop": {
+  "ru": "рудное растение",
+  "freq": 1
+ },
+ "Ore Dictionary": {
+  "ru": "словарь руд",
+  "freq": 1
+ },
+ "ore drilling plant": {
+  "ru": "рудная буровая установка",
+  "freq": 1
+ },
+ "ore processing": {
+  "ru": "переработка руды",
+  "freq": 1
+ },
+ "ore purifier": {
+  "ru": "очиститель руды",
+  "freq": 1
+ },
+ "ore washer": {
+  "ru": "рудопромывочная машина",
+  "freq": 1
+ },
+ "Oriharukon": {
+  "ru": "Oriharukon",
+  "freq": 1
+ },
+ "oxygen bubble distributor": {
+  "ru": "распределитель кислородных пузырей",
+  "freq": 1
+ },
+ "oxygen collector": {
+  "ru": "кислородный сборщик",
+  "freq": 1
+ },
+ "oxygen compressor": {
+  "ru": "кислородный компрессор",
+  "freq": 1
+ },
+ "oxygen mask": {
+  "ru": "кислородная маска",
+  "freq": 1
+ },
+ "oxygen tank": {
+  "ru": "кислородный баллон",
+  "freq": 1
+ },
+ "oxygen tanks": {
+  "ru": "кислородные баллоны",
+  "freq": 1
+ },
+ "parallel processing": {
+  "ru": "параллельная обработка",
+  "freq": 1
+ },
+ "Pattern Terminal": {
+  "ru": "терминал шаблонов",
+  "freq": 1
+ },
+ "PBI": {
+  "ru": "ПБИ",
+  "freq": 1
+ },
+ "PCB": {
+  "ru": "ППП",
+  "freq": 1
+ },
+ "personal dimension": {
+  "ru": "личное измерение",
+  "freq": 1
+ },
+ "phthalic acid": {
+  "ru": "фталевая кислота",
+  "freq": 1
+ },
+ "pipe casing": {
+  "ru": "полый корпус",
+  "freq": 1
+ },
+ "piston boot": {
+  "ru": "Поршневые Ботинки",
+  "freq": 1
+ },
+ "Planetary Gas Siphon": {
+  "ru": "Планетарный газовый сифон",
+  "freq": 1
+ },
+ "plant growth": {
+  "ru": "рост растений",
+  "freq": 1
+ },
+ "Plascrete Block": {
+  "ru": "блок пластобетона",
+  "freq": 1
+ },
+ "plastic board": {
+  "ru": "пластиковая печатная плата",
+  "freq": 1
+ },
+ "plate bender": {
+  "ru": "гибочный станок",
+  "freq": 1
+ },
+ "pocket plasma": {
+  "ru": "карманная плазма",
+  "freq": 1
+ },
+ "polyvinyl chloride": {
+  "ru": "поливинилхлорид",
+  "freq": 1
+ },
+ "Portable Barrel": {
+  "ru": "портативная бочка",
+  "freq": 1
+ },
+ "portable power source": {
+  "ru": "портативный источник питания",
+  "freq": 1
+ },
+ "Portable Scanner": {
+  "ru": "портативный сканер",
+  "freq": 1
+ },
+ "portable tank": {
+  "ru": "переносный резервуар",
+  "freq": 1
+ },
+ "Powered Spawner": {
+  "ru": "электрический спаунер",
+  "freq": 1
+ },
+ "precision laser engraver": {
+  "ru": "точный лазерный гравировщик",
+  "freq": 1
+ },
+ "pressure plate": {
+  "ru": "нажимная пластина",
+  "freq": 1
+ },
+ "processing chain": {
+  "ru": "цепочка производства",
+  "freq": 1
+ },
+ "Processor": {
+  "ru": "процессор",
+  "freq": 1
+ },
+ "programmed circuit": {
+  "ru": "запрограммированная схема",
+  "freq": 1
+ },
+ "Project Red": {
+  "ru": "Project Red",
+  "freq": 1
+ },
+ "Pure Daisy": {
+  "ru": "Чистая маргаритка",
+  "freq": 1
+ },
+ "purified crushed ore": {
+  "ru": "очищенная измельчённая руда",
+  "freq": 1
+ },
+ "purified water": {
+  "ru": "очищенная вода",
+  "freq": 1
+ },
+ "pyrolyze oven": {
+  "ru": "пиролизная печь",
+  "freq": 1
+ },
+ "Pyrotheum": {
+  "ru": "Пиротеумная",
+  "freq": 1
+ },
+ "Quantium": {
+  "ru": "квантий",
+  "freq": 1
+ },
+ "quantum armor": {
+  "ru": "квантовая броня",
+  "freq": 1
+ },
+ "quantum bridge": {
+  "ru": "квантовый мост",
+  "freq": 1
+ },
+ "Quantum Crystal": {
+  "ru": "квантовый кристалл",
+  "freq": 1
+ },
+ "quantum goggles": {
+  "ru": "квантовые очки",
+  "freq": 1
+ },
+ "Quantum Network Bridge": {
+  "ru": "квантовый мост",
+  "freq": 1
+ },
+ "Quantum Ring": {
+  "ru": "Квантовое кольцо",
+  "freq": 1
+ },
+ "quantum storage cell": {
+  "ru": "квантовая ячейка хранения",
+  "freq": 1
+ },
+ "quartz sphere": {
+  "ru": "кварцевая сфера",
+  "freq": 1
+ },
+ "radio hatch": {
+  "ru": "радиоактивный шлюз",
+  "freq": 1
+ },
+ "radioactive isotope": {
+  "ru": "радиоактивный изотоп",
+  "freq": 1
+ },
+ "radioisotope thermoelectric generator": {
+  "ru": "радиоизотопный термоэлектрический генератор",
+  "freq": 1
+ },
+ "Radium": {
+  "ru": "радий",
+  "freq": 1
+ },
+ "Radon": {
+  "ru": "радон",
+  "freq": 1
+ },
+ "rare earth": {
+  "ru": "редкоземельный элемент",
+  "freq": 1
+ },
+ "Raven feather": {
+  "ru": "воронье перо",
+  "freq": 1
+ },
+ "raw aluminum": {
+  "ru": "необработанный алюминий",
+  "freq": 1
+ },
+ "reactor core": {
+  "ru": "ядро реактора",
+  "freq": 1
+ },
+ "reactor shielding": {
+  "ru": "экранирование реактора",
+  "freq": 1
+ },
+ "Recipe Pattern": {
+  "ru": "шаблон рецепта",
+  "freq": 1
+ },
+ "Red Alloy": {
+  "ru": "Красный сплав",
+  "freq": 1
+ },
+ "redstone dust": {
+  "ru": "красная пыль",
+  "freq": 1
+ },
+ "redstone emitter": {
+  "ru": "излучатель редстоун-сигнала",
+  "freq": 1
+ },
+ "redstone receiver": {
+  "ru": "приёмник редстоуна",
+  "freq": 1
+ },
+ "redstone signal": {
+  "ru": "сигнал красного камня",
+  "freq": 1
+ },
+ "Reinforced Glass": {
+  "ru": "укреплённое стекло",
+  "freq": 1
+ },
+ "request pipe": {
+  "ru": "труба запроса",
+  "freq": 1
+ },
+ "RF": {
+  "ru": "RF",
+  "freq": 1
+ },
+ "RF battery": {
+  "ru": "RF аккумулятор",
+  "freq": 1
+ },
+ "RF energy": {
+  "ru": "RF энергия",
+  "freq": 1
+ },
+ "RF power": {
+  "ru": "RF-энергия",
+  "freq": 1
+ },
+ "ritual stone": {
+  "ru": "ритуальный камень",
+  "freq": 1
+ },
+ "rocket fins": {
+  "ru": "ракетный стабилизатор",
+  "freq": 1
+ },
+ "Rocket Shuttle": {
+  "ru": "ракетный шаттл",
+  "freq": 1
+ },
+ "royal jelly": {
+  "ru": "маточное молочко",
+  "freq": 1
+ },
+ "rubber sheet": {
+  "ru": "пластины резины",
+  "freq": 1
+ },
+ "Ruby": {
+  "ru": "Рубиновая",
+  "freq": 1
+ },
+ "sacrificial dagger": {
+  "ru": "жертвенный кинжал",
+  "freq": 1
+ },
+ "Samarium": {
+  "ru": "самарий",
+  "freq": 1
+ },
+ "sash (speed)": {
+  "ru": "пояс ускорения",
+  "freq": 1
+ },
+ "Schrödinger Matrix": {
+  "ru": "матрица Шрёдингера",
+  "freq": 1
+ },
+ "scuba helmet": {
+  "ru": "шлем-акваланг",
+  "freq": 1
+ },
+ "seared brick": {
+  "ru": "обожжённый кирпич",
+  "freq": 1
+ },
+ "seed oil": {
+  "ru": "растительное масло",
+  "freq": 1
+ },
+ "seismic prospector": {
+  "ru": "сейсморазведчик",
+  "freq": 1
+ },
+ "semi-fluid generator": {
+  "ru": "полу-жидкостный генератор",
+  "freq": 1
+ },
+ "Semifluid Generator": {
+  "ru": "полу-жидкостный генератор",
+  "freq": 1
+ },
+ "sensor card": {
+  "ru": "сенсорная карта",
+  "freq": 1
+ },
+ "sensor lens": {
+  "ru": "сенсорные линзы",
+  "freq": 1
+ },
+ "SFM": {
+  "ru": "SFM",
+  "freq": 1
+ },
+ "Shuttle Rocket": {
+  "ru": "Шаттл",
+  "freq": 1
+ },
+ "silicon tetrachloride": {
+  "ru": "тетрахлорид кремния",
+  "freq": 1
+ },
+ "silk touch": {
+  "ru": "шёлковое касание",
+  "freq": 1
+ },
+ "silky comb": {
+  "ru": "шелковистые соты",
+  "freq": 1
+ },
+ "Silverwood": {
+  "ru": "Silverwood",
+  "freq": 1
+ },
+ "Smart Cable": {
+  "ru": "умный кабель",
+  "freq": 1
+ },
+ "SMD component": {
+  "ru": "SMD компонент",
+  "freq": 1
+ },
+ "Snow Queen": {
+  "ru": "снежная королева",
+  "freq": 1
+ },
+ "soft mallet": {
+  "ru": "киянка",
+  "freq": 1
+ },
+ "soldering iron": {
+  "ru": "паяльник",
+  "freq": 1
+ },
+ "solid-oxide fuel cell": {
+  "ru": "твердооксидная топливная ячейка",
+  "freq": 1
+ },
+ "Soul Binder": {
+  "ru": "связыватель душ",
+  "freq": 1
+ },
+ "soul network": {
+  "ru": "сеть души",
+  "freq": 1
+ },
+ "soul shard": {
+  "ru": "осколок души",
+  "freq": 1
+ },
+ "soul vial": {
+  "ru": "флакон для душ",
+  "freq": 1
+ },
+ "source chamber": {
+  "ru": "Источник элементарных частиц",
+  "freq": 1
+ },
+ "Space Bees": {
+  "ru": "Космические пчелы",
+  "freq": 1
+ },
+ "Space Elevator": {
+  "ru": "Космический лифт",
+  "freq": 1
+ },
+ "space station": {
+  "ru": "космическая станция",
+  "freq": 1
+ },
+ "SpaceSuit": {
+  "ru": "космический костюм",
+  "freq": 1
+ },
+ "spatial storage": {
+  "ru": "хранилище пространства",
+  "freq": 1
+ },
+ "spawn egg": {
+  "ru": "яйцо призыва",
+  "freq": 1
+ },
+ "sphalerite ore": {
+  "ru": "сфалеритовая руда",
+  "freq": 1
+ },
+ "spirit coin": {
+  "ru": "монета духа",
+  "freq": 1
+ },
+ "Spray Can": {
+  "ru": "Баллончик с краской",
+  "freq": 1
+ },
+ "Steam Blender": {
+  "ru": "Паровой блендер",
+  "freq": 1
+ },
+ "steam cracking": {
+  "ru": "паровое расщепление",
+  "freq": 1
+ },
+ "steam locomotive": {
+  "ru": "паровой локомотив",
+  "freq": 1
+ },
+ "Steam Separator": {
+  "ru": "паровой сепаратор",
+  "freq": 1
+ },
+ "stockroom catalog": {
+  "ru": "складской каталог",
+  "freq": 1
+ },
+ "stone age": {
+  "ru": "каменный век",
+  "freq": 1
+ },
+ "stone builder's wand": {
+  "ru": "каменный жезл строителя",
+  "freq": 1
+ },
+ "storage component": {
+  "ru": "компонент хранения",
+  "freq": 1
+ },
+ "storage drawer": {
+  "ru": "ящик",
+  "freq": 1
+ },
+ "storage housing": {
+  "ru": "корпус ячейки хранения",
+  "freq": 1
+ },
+ "Super Glue": {
+  "ru": "суперклей",
+  "freq": 1
+ },
+ "superheated steam": {
+  "ru": "перегретый пар",
+  "freq": 1
+ },
+ "switch lever": {
+  "ru": "стрелочный рычаг",
+  "freq": 1
+ },
+ "taglock kit": {
+  "ru": "набор для сбора ДНК",
+  "freq": 1
+ },
+ "Talisman of Remedium": {
+  "ru": "Талисман очищения",
+  "freq": 1
+ },
+ "target chamber": {
+  "ru": "Приёмник элементарных частиц",
+  "freq": 1
+ },
+ "teleposition focus": {
+  "ru": "фокус телепозиции",
+  "freq": 1
+ },
+ "Terrasteel": {
+  "ru": "Террасталь",
+  "freq": 1
+ },
+ "Tesla Coil": {
+  "ru": "Тесла-катушка",
+  "freq": 1
+ },
+ "Tesla Tower": {
+  "ru": "Башня Теслы",
+  "freq": 1
+ },
+ "TF boss": {
+  "ru": "босс Сумеречного леса",
+  "freq": 1
+ },
+ "Thaumaturgy": {
+  "ru": "Тауматургия",
+  "freq": 1
+ },
+ "Thaumic Shards": {
+  "ru": "Таум-кристаллы",
+  "freq": 1
+ },
+ "Thaumium Dust": {
+  "ru": "Таум-металл",
+  "freq": 1
+ },
+ "thermal centrifuge": {
+  "ru": "тепловая центрифуга",
+  "freq": 1
+ },
+ "thermal cloth": {
+  "ru": "термоустойчивая ткань",
+  "freq": 1
+ },
+ "Thermal Padding": {
+  "ru": "термозащита",
+  "freq": 1
+ },
+ "thermionic fabricator": {
+  "ru": "электроламповый завод",
+  "freq": 1
+ },
+ "thorium 232": {
+  "ru": "торий-232",
+  "freq": 1
+ },
+ "THTR": {
+  "ru": "ТВР",
+  "freq": 1
+ },
+ "Tinker's Crafting Station": {
+  "ru": "верстак инженера",
+  "freq": 1
+ },
+ "tinker's table": {
+  "ru": "инженерный верстак",
+  "freq": 1
+ },
+ "Titan": {
+  "ru": "Титан",
+  "freq": 1
+ },
+ "TNM": {
+  "ru": "тетранитрометан",
+  "freq": 1
+ },
+ "TNT": {
+  "ru": "динамит",
+  "freq": 1
+ },
+ "tool head": {
+  "ru": "головка инструмента",
+  "freq": 1
+ },
+ "tool modifier": {
+  "ru": "улучшение инструмента",
+  "freq": 1
+ },
+ "TPV coil": {
+  "ru": "TPV катушка",
+  "freq": 1
+ },
+ "transfer node": {
+  "ru": "узел передачи",
+  "freq": 1
+ },
+ "Travel Anchor": {
+  "ru": "якорь путешествия",
+  "freq": 1
+ },
+ "traveller's gear": {
+  "ru": "снаряжение путешественника",
+  "freq": 1
+ },
+ "Traveller's Shoes Upgrades": {
+  "ru": "улучшение ботинок путешественника",
+  "freq": 1
+ },
+ "traveller's wings": {
+  "ru": "крылья путешественника",
+  "freq": 1
+ },
+ "turret base": {
+  "ru": "основание турели",
+  "freq": 1
+ },
+ "Unbreakable": {
+  "ru": "Неломаемый",
+  "freq": 1
+ },
+ "Uncertainty Resolver": {
+  "ru": "Разрешитель неопределённости",
+  "freq": 1
+ },
+ "Ur-Ghast": {
+  "ru": "тёмный гаст",
+  "freq": 1
+ },
+ "UUA": {
+  "ru": "катализатор",
+  "freq": 1
+ },
+ "vacuum reactor": {
+  "ru": "вакуумный реактор",
+  "freq": 1
+ },
+ "Vibrant Alloy": {
+  "ru": "Вибрирующий сплав",
+  "freq": 1
+ },
+ "vis relay": {
+  "ru": "вис-реле",
+  "freq": 1
+ },
+ "void cell": {
+  "ru": "ячейка для удаления",
+  "freq": 1
+ },
+ "void miner": {
+  "ru": "пустотный шахтёр",
+  "freq": 1
+ },
+ "void upgrade": {
+  "ru": "пустотное улучшение",
+  "freq": 1
+ },
+ "voltage tier": {
+  "ru": "уровень напряжения",
+  "freq": 1
+ },
+ "warded jar": {
+  "ru": "банка",
+  "freq": 1
+ },
+ "warden jar": {
+  "ru": "магическая банка",
+  "freq": 1
+ },
+ "water cell": {
+  "ru": "капсула воды",
+  "freq": 1
+ },
+ "water purification plant": {
+  "ru": "Водоочистная станция",
+  "freq": 1
+ },
+ "Weeding Trowel": {
+  "ru": "совок для прополки",
+  "freq": 1
+ },
+ "wire cutter": {
+  "ru": "кусачки",
+  "freq": 1
+ },
+ "wire mill": {
+  "ru": "проволочный станок",
+  "freq": 1
+ },
+ "wireless access point": {
+  "ru": "беспроводная точка доступа",
+  "freq": 1
+ },
+ "Wireless Connector": {
+  "ru": "беспроводной соединитель",
+  "freq": 1
+ },
+ "Wither": {
+  "ru": "Иссушитель",
+  "freq": 1
+ },
+ "wither skeleton": {
+  "ru": "скелет-иссушитель",
+  "freq": 1
+ },
+ "wood tar": {
+  "ru": "древесный дёготь",
+  "freq": 1
+ },
+ "Wooden Crossbow": {
+  "ru": "деревянный арбалет",
+  "freq": 1
+ },
+ "world anchor": {
+  "ru": "мировой якорь",
+  "freq": 1
+ },
+ "XL Plasma Turbine": {
+  "ru": "XL Плазменная турбина",
+  "freq": 1
+ },
+ "ZPM tier": {
+  "ru": "ZPM тир",
+  "freq": 1
+ }
+}
