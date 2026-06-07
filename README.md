@@ -87,29 +87,13 @@ template.lang + ru_RU.original.lang
     └── review_data.json     # 2579 изменённых квестов (EN / старый / новый)
 ```
 
-## Локальный запуск viewer
+## Запуск, использование и обновление
 
-```bash
-cd docs && python3 -m http.server 8765
-# открыть http://localhost:8765
-```
+Полное руководство — как запускать инструменты и **как обновлять перевод при выходе новой
+версии книги квестов или обновлении сборки** — в **[USAGE.md](USAGE.md)**.
 
-Или сразу: **[egor-muindor.github.io/gtnh-ai-translator](https://egor-muindor.github.io/gtnh-ai-translator/)**
-
-## Воспроизведение
-
-Детерминированные шаги (парсинг, QA, сборка, отчёты) — чистый Python 3, без зависимостей:
-
-```bash
-python3 tools/prep.py            # построить сегменты/термосписки из .lang
-python3 tools/build.py ru_RU.lang  # пересобрать итог из work/translations.json
-python3 tools/verify_final.py    # проверка структуры и QA
-python3 tools/markup_check.py    # проверка сохранности разметки
-```
-
-LLM-этапы (глоссарий, валидация, перевод, доработка) выполняются как Workflow-агенты
-[Claude Code](https://docs.claude.com/en/docs/claude-code) на моделях Haiku/Sonnet/Opus.
-Промежуточные данные (`work/`) не версионируются.
+Быстро посмотреть результат: **[интерактивный viewer](https://egor-muindor.github.io/gtnh-ai-translator/)**
+(или локально: `cd docs && python3 -m http.server 8765`).
 
 ## Лицензия
 

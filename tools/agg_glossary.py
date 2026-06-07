@@ -1,7 +1,7 @@
 """Aggregate raw extracted term pairs into a canonical glossary.
 
 Input : work/gloss_raw.json   ([{en, ru}] from the extraction workflow)
-        work/glossary_seed.json (hand-curated, wins on conflict)
+        tools/glossary_seed.json (hand-curated, wins on conflict)
 Output: work/glossary.json     (canonical EN -> RU, with frequency)
         work/glossary.md        (human-readable termbase)
 """
@@ -9,7 +9,7 @@ import json, os, re, collections
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 raw = json.load(open('work/gloss_raw.json'))
-seed = {k: v for k, v in json.load(open('work/glossary_seed.json')).items()
+seed = {k: v for k, v in json.load(open('tools/glossary_seed.json')).items()
         if not k.startswith('_')}
 
 def norm_en(s):
